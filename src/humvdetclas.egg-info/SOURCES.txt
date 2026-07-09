@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/humvdetclas/__init__.py
+src/humvdetclas/cli.py
+src/humvdetclas/model.py
+src/humvdetclas.egg-info/PKG-INFO
+src/humvdetclas.egg-info/SOURCES.txt
+src/humvdetclas.egg-info/dependency_links.txt
+src/humvdetclas.egg-info/entry_points.txt
+src/humvdetclas.egg-info/requires.txt
+src/humvdetclas.egg-info/top_level.txt
+tests/test_model.py

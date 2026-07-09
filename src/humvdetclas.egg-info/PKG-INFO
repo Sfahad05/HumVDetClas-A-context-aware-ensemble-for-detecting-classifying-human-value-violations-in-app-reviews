@@ -1,3 +1,12 @@
+Metadata-Version: 2.4
+Name: humvdetclas
+Version: 0.1.0
+Summary: Context-aware ensemble baseline for human value violation detection in app reviews.
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+
 # HumVDetClas: Context-Aware Human Value Violation Detection
 
 This repository now includes a complete, runnable baseline implementation for

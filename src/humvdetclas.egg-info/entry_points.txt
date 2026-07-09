@@ -1,0 +1,2 @@
+[console_scripts]
+humvdetclas = humvdetclas.cli:main
