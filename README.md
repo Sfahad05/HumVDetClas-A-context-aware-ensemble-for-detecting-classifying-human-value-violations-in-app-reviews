@@ -36,8 +36,8 @@ The repository is organized into three main experiment stages:
   Binary dataset prepared for transformer models.
 
 ### Multiclass task dataset (`Multiclassification_experiment/`)
-- `HumVDetClasAmazonDataset.csv`  
-  Extended dataset for multiclass human value violation classification.
+- `AmazonHVV.csv: A Manually Annotated Benchmark Dataset of Human Value Violations in Low-Rated Amazon App Reviews`  
+  An expert-annotated benchmark for ten-class classification of human value violations in low-rated Amazon App Store reviews..
 
 ---
 
